@@ -29,28 +29,13 @@ This portfolio highlights my expertise in:
 ## 🛠️ How to Use This Portfolio
 ### 🌐 View the Website
 Live at:
-🔗 **[https://yourusername.github.io/](https://yourusername.github.io/)**
-
-### 💻 Run Locally
-1. **Clone this repository:**  
-   ```sh
-   git clone https://github.com/yourusername/yourusername.github.io.git
-   ```
-2. **Open the folder in VS Code or a text editor.**  
-3. **Run a local development server:**  
-   ```sh
-   python -m http.server 8000
-   ```
-4. **Open in a browser:**  
-   ```
-   http://localhost:8000
-   ```
+🔗 **[https://kabiratnas.github.io/](https://kabiratnas.github.io/)**
 
 ## 🛠️ Tech Stack
 ✅ **Data Science:** Python, TensorFlow, PyTorch, Scikit-Learn, NLP  
 ✅ **Big Data:** Snowflake, Apache Spark, Hadoop, Airflow  
 ✅ **Cloud Platforms:** AWS, Azure, GCP  
-✅ **DevOps & MLOps:** Docker, Kubernetes, Terraform, CI/CD (Jenkins, GitHub Actions)  
+✅ **DevOps & MLOps:** Ubuntu, Linux, Docker, Kubernetes, Terraform, CI/CD, GitHub 
 ✅ **Business Intelligence:** Power BI, Tableau  
 ✅ **Infrastructure as Code:** Terraform, CloudFormation  
 
