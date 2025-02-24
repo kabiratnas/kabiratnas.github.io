@@ -41,9 +41,8 @@ Live at:
 ✅ **Infrastructure as Code:** Terraform, CloudFormation  
 
 ## 📬 Contact Me
-📧 Email: [your-email@example.com](mailto:your-email@example.com)  
-🔗 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
-🐙 GitHub: [github.com/yourusername](https://github.com/yourusername)  
+📧 Email: 
+
 
 ## 🎯 Future Updates
 🔹 Add **interactive ML model deployment demos**  
