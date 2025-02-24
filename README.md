@@ -7,6 +7,7 @@
 ## 🔹 About This Project
 This portfolio highlights my expertise in:
 - **Machine Learning & Predictive Analytics**
+- **Data Science and AI application**
 - **Big Data & Scalable ETL Pipelines**
 - **MLOps & CI/CD for Model Deployment**
 - **Cloud Infrastructure Automation (AWS, Azure, GCP)**
