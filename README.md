@@ -2,8 +2,6 @@
 
 🚀 **Welcome to my portfolio!** This repository showcases my work in **Data Science, Cloud Data Engineering, and DevOps**—focusing on **Big Data, Machine Learning, CI/CD, and Cloud Automation**.
 
-![Portfolio Screenshot](profile.png)
-
 ## 🔹 About This Project
 This portfolio highlights my expertise in:
 - **Machine Learning & Predictive Analytics**
